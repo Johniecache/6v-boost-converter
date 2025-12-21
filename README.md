@@ -28,7 +28,5 @@ This small local business sells light boxes but found their way of purchasing th
    * Output voltage: 22.1v
    * Load size: 
    * Efficiency estimate: 
-  
-  # Business Impact
 
   # Future Work
