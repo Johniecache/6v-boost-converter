@@ -30,3 +30,5 @@ This small local business sells light boxes but found their way of purchasing th
    * Efficiency estimate: 
 
   # Future Work
+* New design (3.7v -> 5v)
+* Cheaper/more effective inductor
